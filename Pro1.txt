@@ -7,3 +7,8 @@ procedure:
 5.)git config --global user.email "jharshithshetty@gmail.com"
 6.)git config --global --list
 7.)want to remove and create new user name(search > manage windows credential > remove)
+8.)create a text doc in git, then save it, open in gitbash.
+9.)git add .
+10.)git status
+11.)git commit -m""
+
