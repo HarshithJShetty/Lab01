@@ -1,0 +1,9 @@
+Demonstrate and create project in local and remote repositories using GitBash and GitHub and apply init status add commit push config clone and reset commands on repositories.
+procedure:
+1.)create folder.
+2.)open in gitbash.
+3.)git init
+4.)git config --global user.name "HarshithJShetty"
+5.)git config --global user.email "jharshithshetty@gmail.com"
+6.)git config --global --list
+7.)want to remove and create new user name(search > manage windows credential > remove)
